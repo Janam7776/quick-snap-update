@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "build_number": 2,
-  "force_update": false,
+  "force_update": true,
   "changelog": "• Search button \n • camera view update",
   "download_url": "https://github.com/Janam7776/quick-snap-update/releases/download/latest_version/Quick_Snap_latest.apk"
 }
